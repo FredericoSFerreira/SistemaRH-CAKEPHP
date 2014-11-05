@@ -34,9 +34,7 @@ class AppController extends Controller {
 	
 	 public function beforeFilter(){
         $this->layout = 'bootstrap';
-    
-	 	
-	 }
+    }
 	
 	
 	
